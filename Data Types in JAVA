@@ -1,10 +1,10 @@
 data types of java 
 1 . primitive data types       2 . non-prmitive data types
-  * byte                       * string
-  * short                      * array
-  * char                       * class
-  * boolean                    * object
-  * int                        * interface
-  * long
-  * float
-  * double
+  * byte (-128 to 127)         * string
+  * short  (-2)                * array
+  * char    (2)                * class
+  * boolean (1)                * object
+  * int     (4)                * interface
+  * long    (8)
+  * float   (4)
+  * double  (8)
