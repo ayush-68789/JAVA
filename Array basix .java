@@ -6,7 +6,7 @@ public class Main
     {
         int marks[] = {84,564,54} ;
         
-        
+        int people[][] = {{94 , 84 , 65 } , {84 , 65 , 77 }} ;
         /*
         >>>> can also be initalised like this <<<<<
         int marks[] = new int[3] ;
