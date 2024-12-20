@@ -5,7 +5,7 @@ public class Main
         int a = 15 ; 
         int b = 48 ; 
         int sum = a + b ;
-        System.out.print(sum) ; 
+        System.out.print("sum of a and b :"+sum) ; 
         //System.out.print(a+b) ;   //it also prints the sum without third variable
     }
 }
