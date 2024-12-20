@@ -1,9 +1,12 @@
+import java.util.Scanner ;
 public class Main 
 {
     public static void main (String args[])
     {
-        int a = 15 ; 
-        int b = 48 ; 
+
+        Scanner sc = new Scanner(System.in) ;
+        int a = sc.nextInt() ; 
+        int b = sc.nextInt() ; 
         int sum = a + b ;
         System.out.print("sum of a and b :"+sum) ; 
         //System.out.print(a+b) ;   //it also prints the sum without third variable
