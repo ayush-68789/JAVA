@@ -1,10 +1,11 @@
+/*
 #TERMINAL
 532
 10
 
 
 #code
-
+*/
   
 import java.util.Scanner;
 class Main 
