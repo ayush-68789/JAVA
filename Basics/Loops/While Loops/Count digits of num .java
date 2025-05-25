@@ -3,7 +3,9 @@
 10
 
 
-  #code
+#code
+
+  
 import java.util.Scanner;
 class Main 
 {
