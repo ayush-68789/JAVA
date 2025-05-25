@@ -1,17 +1,26 @@
-import java.util.Scanner ;
-class Main 
+#TERMINAL 
+enter number : 5
+Factorial : 120
+
+
+    
+#code
+    
+import java.util.Scanner;
+class Main
 {
     public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in) ;
-        System.out.printf("enter a number : ") ;
-        int num = sc.nextInt() ;
+        System.out.print("enter number : ");
+        int n = sc.nextInt() ;
+        
         int fact = 1 ; 
-        for(int i = 1 ; i <= num ; i++)
+        for (int i = 1 ; i <= n ; i++)
         {
-            fact = fact * i ;
+            fact*=i;
         }
-        sc.close() ;
-        System.out.printf("Factorial of %d = %d",num,fact) ;
+        
+        System.out.print("Factorial : "+fact);
     }
 }
