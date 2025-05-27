@@ -1,3 +1,13 @@
+/*
+#TERMINAL 
+    3639
+Lucky number
+
+    56669
+NOT a lucky number
+
+*/
+
 import java.util.Scanner ;
 class Main 
 {
