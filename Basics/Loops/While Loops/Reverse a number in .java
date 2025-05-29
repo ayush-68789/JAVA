@@ -15,13 +15,12 @@ class Main
         Scanner sc = new Scanner(System.in) ; 
         int n = sc.nextInt() ;
         int revdigi = 0 ;
-        int temp = n ;
         
-        while(temp > 0)
+        while(n > 0)
         {
-            int sum = temp % 10 ;
+            int sum = n % 10 ;
             revdigi = revdigi * 10 + sum ;
-            temp = temp / 10 ;
+            n = n / 10 ;
         }
         System.out.printf("revrese : %d",revdigi);
     }
