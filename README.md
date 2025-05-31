@@ -4,12 +4,6 @@ Hi I'm **Ayush Chaurasia** presently studying in **GLA University, Mathura**. I'
 
 ## My Skills
 <img src="https://camo.githubusercontent.com/77bfc2ea4407935cad9241c389f31a60362dca97a19c125d6e2ead1d8febb597/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61797573682d3638373839266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="ayush-68789" data-canonical-src="https://komarev.com/ghpvc/?username=ayush-68789&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 
 ## GitHub Stats
 
