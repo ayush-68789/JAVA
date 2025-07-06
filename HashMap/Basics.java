@@ -51,4 +51,7 @@ o/p : {ayush=1, Piyush=0}        // wits means they are unordered
 7. )   To remove the key and value from Hashmap  		-->		var_name.remove(key_name) ;   
 									it will remove the key and the value corresponding to it
 
+
+
+8. )   To find the size of the map      -->       var_name.size()      
 		            
