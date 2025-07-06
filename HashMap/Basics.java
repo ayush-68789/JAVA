@@ -29,4 +29,26 @@ o/p : {ayush=1, Piyush=0}        // wits means they are unordered
 
 
 6. )   Iteration in HashMaps : 
+
+		a.) For Iterating to get both key and value ---> 
+			
+			for(Map.Entry<String, Integer> x : map.entrySet())
+	    		{
+	        		System.out.println(x.getKey());
+	       			System.out.println(x.getValue());
+	    		}
+
+		b.) For iterating just to get key ---> 
+
+			for(String x : map.keySet())
+	    		{
+	        		System.out.println(x);
+	        		System.out.println(map.get(x));
+	    		}
+
+
+
+7. )   To remove the key and value from Hashmap  		-->		var_name.remove(key_name) ;   
+									it will remove the key and the value corresponding to it
+
 		            
