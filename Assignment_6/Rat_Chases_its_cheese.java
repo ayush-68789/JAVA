@@ -7,7 +7,9 @@ public class Rat_Chases_its_cheese {
         int [][] desti = new int [r][c] ; 
         chesse(r-1,c-1,0,0,path, "", desti) ;
         if(!found)
+        {
             System.out.println("NO PATH FOUND");
+        }
     }
 
     public static void chesse(int r, int c , int currR , int currC , char [][] path , String ans, int [][] desti)
@@ -29,7 +31,7 @@ public class Rat_Chases_its_cheese {
             return ; 
         }
         path[currR][currC] = 'X' ;
-        chesse(r, c, currR+1, currC, path, ans+"D",desti);
+        chesse(r, c, currR+1, currC, path, ans+"D", desti);
         chesse(r, c, currR, currC-1, path, ans+"L", desti);
         chesse(r, c, currR, currC+1, path, ans+"R", desti);
         chesse(r, c, currR-1, currC, path, ans+"U", desti);
