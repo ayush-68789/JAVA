@@ -7,6 +7,7 @@ public class Permutation {
         List<List<Integer>> ll = new ArrayList<>() ;
         permut(nums , ll , new ArrayList<>() ) ; 
         System.out.println(ll);
+        System.out.println();
     }
 
     public static void permut(int [] nums , List<List<Integer>> ll , ArrayList<Integer> temp )
