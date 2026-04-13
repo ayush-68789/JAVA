@@ -1,16 +1,16 @@
 public class Client {
     public static void main(String[] args) {
-        Student s = new Student() ; 
+        User s = new User() ; 
         s.name = "ayush" ; 
         s.age = 10 ; 
         s.introduce(); 
 
-        Student s1 = new Student() ; 
+        User s1 = new User() ; 
         s1.name = "Raju" ;
         s1.age = 25 ;
         s1.introduce(); 
         s1.SayHey("Kaju");
 
-        Student.Mentor();   // static method ko class ke naam se call krte hein
+        User.Mentor();   // static method ko class ke naam se call krte hein
     }
 }

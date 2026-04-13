@@ -1,4 +1,4 @@
-public class Student {
+public class User {
     String name ; 
     int age ; 
     public void introduce()
@@ -9,7 +9,7 @@ public class Student {
     public void SayHey (String name)
     {
         // but non-static field mein static acces kr skte hein
-        Student.Mentor();
+        User.Mentor();
         System.out.println(this.name + " says Hey to " + name);
     }
     public static void Mentor()
