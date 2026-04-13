@@ -1,4 +1,4 @@
-public class Client {
+public class Stu_Client {
     public static void main(String[] args) 
     {
         Student s1 = new Student("Ayush", 19) ; 
